@@ -1,0 +1,243 @@
+Monthly Employee Rankings
+========================
+
+Month: 2010-01
+Top Positive Employees:
+  kayne.coulter: 5
+  patti.thompson: 5
+  don.baughman: 4
+Top Negative Employees:
+  rhonda.denton: 0
+  johnny.palmer: 1
+  bobette.riner: 2
+
+Month: 2010-02
+Top Positive Employees:
+  bobette.riner: 7
+  john.arnold: 7
+  don.baughman: 6
+Top Negative Employees:
+  lydia.delgado: 1
+  patti.thompson: 1
+  sally.beck: 1
+
+Month: 2010-03
+Top Positive Employees:
+  sally.beck: 7
+  lydia.delgado: 6
+  bobette.riner: 4
+Top Negative Employees:
+  patti.thompson: 0
+  rhonda.denton: 0
+  eric.bass: 1
+
+Month: 2010-04
+Top Positive Employees:
+  don.baughman: 5
+  johnny.palmer: 4
+  rhonda.denton: 4
+Top Negative Employees:
+  eric.bass: 1
+  patti.thompson: 1
+  bobette.riner: 2
+
+Month: 2010-05
+Top Positive Employees:
+  don.baughman: 8
+  patti.thompson: 7
+  sally.beck: 6
+Top Negative Employees:
+  johnny.palmer: 0
+  bobette.riner: 1
+  john.arnold: 1
+
+Month: 2010-06
+Top Positive Employees:
+  don.baughman: 8
+  patti.thompson: 6
+  john.arnold: 5
+Top Negative Employees:
+  bobette.riner: 0
+  eric.bass: 0
+  kayne.coulter: 0
+
+Month: 2010-07
+Top Positive Employees:
+  lydia.delgado: 9
+  bobette.riner: 7
+  eric.bass: 7
+Top Negative Employees:
+  johnny.palmer: -1
+  rhonda.denton: 0
+  don.baughman: 1
+
+Month: 2010-08
+Top Positive Employees:
+  sally.beck: 12
+  john.arnold: 5
+  kayne.coulter: 4
+Top Negative Employees:
+  bobette.riner: 0
+  eric.bass: 1
+  patti.thompson: 1
+
+Month: 2010-09
+Top Positive Employees:
+  patti.thompson: 6
+  johnny.palmer: 4
+  rhonda.denton: 4
+Top Negative Employees:
+  kayne.coulter: 1
+  don.baughman: 2
+  lydia.delgado: 2
+
+Month: 2010-10
+Top Positive Employees:
+  eric.bass: 6
+  john.arnold: 5
+  johnny.palmer: 5
+Top Negative Employees:
+  don.baughman: 0
+  sally.beck: 0
+  kayne.coulter: 1
+
+Month: 2010-11
+Top Positive Employees:
+  lydia.delgado: 4
+  don.baughman: 3
+  kayne.coulter: 3
+Top Negative Employees:
+  john.arnold: 0
+  rhonda.denton: 0
+  johnny.palmer: 1
+
+Month: 2010-12
+Top Positive Employees:
+  john.arnold: 8
+  lydia.delgado: 5
+  sally.beck: 5
+Top Negative Employees:
+  bobette.riner: 0
+  johnny.palmer: 0
+  rhonda.denton: 0
+
+Month: 2011-01
+Top Positive Employees:
+  bobette.riner: 10
+  sally.beck: 6
+  eric.bass: 5
+Top Negative Employees:
+  john.arnold: 0
+  kayne.coulter: 0
+  patti.thompson: 1
+
+Month: 2011-02
+Top Positive Employees:
+  john.arnold: 10
+  lydia.delgado: 7
+  kayne.coulter: 4
+Top Negative Employees:
+  rhonda.denton: -1
+  bobette.riner: 1
+  eric.bass: 1
+
+Month: 2011-03
+Top Positive Employees:
+  lydia.delgado: 7
+  bobette.riner: 6
+  john.arnold: 6
+Top Negative Employees:
+  sally.beck: -1
+  johnny.palmer: 0
+  don.baughman: 2
+
+Month: 2011-04
+Top Positive Employees:
+  johnny.palmer: 10
+  bobette.riner: 8
+  eric.bass: 6
+Top Negative Employees:
+  john.arnold: 1
+  kayne.coulter: 1
+  sally.beck: 1
+
+Month: 2011-05
+Top Positive Employees:
+  lydia.delgado: 8
+  eric.bass: 6
+  john.arnold: 6
+Top Negative Employees:
+  patti.thompson: -1
+  bobette.riner: 1
+  kayne.coulter: 1
+
+Month: 2011-06
+Top Positive Employees:
+  johnny.palmer: 13
+  eric.bass: 8
+  bobette.riner: 5
+Top Negative Employees:
+  kayne.coulter: 0
+  don.baughman: 1
+  rhonda.denton: 2
+
+Month: 2011-07
+Top Positive Employees:
+  patti.thompson: 11
+  sally.beck: 11
+  john.arnold: 6
+Top Negative Employees:
+  don.baughman: 0
+  kayne.coulter: 0
+  lydia.delgado: 0
+
+Month: 2011-08
+Top Positive Employees:
+  lydia.delgado: 8
+  sally.beck: 6
+  don.baughman: 5
+Top Negative Employees:
+  kayne.coulter: 1
+  rhonda.denton: 1
+  bobette.riner: 2
+
+Month: 2011-09
+Top Positive Employees:
+  kayne.coulter: 9
+  eric.bass: 7
+  rhonda.denton: 7
+Top Negative Employees:
+  john.arnold: 1
+  sally.beck: 1
+  johnny.palmer: 2
+
+Month: 2011-10
+Top Positive Employees:
+  lydia.delgado: 8
+  john.arnold: 6
+  kayne.coulter: 6
+Top Negative Employees:
+  bobette.riner: 0
+  johnny.palmer: 0
+  rhonda.denton: 0
+
+Month: 2011-11
+Top Positive Employees:
+  patti.thompson: 9
+  kayne.coulter: 7
+  bobette.riner: 6
+Top Negative Employees:
+  eric.bass: 1
+  lydia.delgado: 1
+  rhonda.denton: 1
+
+Month: 2011-12
+Top Positive Employees:
+  kayne.coulter: 5
+  patti.thompson: 5
+  eric.bass: 4
+Top Negative Employees:
+  bobette.riner: 0
+  john.arnold: 2
+  johnny.palmer: 2
+
